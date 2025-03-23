@@ -1,0 +1,17 @@
+{
+    "name": "atayy/composer",
+    "autoload": {
+        "psr-4": {
+            "Atayy\\Composer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ALI TAYYAB",
+            "email": "01-134232-037@student.bahria.edu.pk"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.9"
+    }
+}
